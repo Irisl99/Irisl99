@@ -8,6 +8,6 @@ I'm building **Explorer**, an AI-native learning decision system starting with S
 
 Explorer is in **private Alpha with real learner testing**. My focus is product direction, decision quality, human review, and the learning experience.
 
-[Explore the public technical snapshot](https://github.com/Irisl99/Explorer-YC) for selected implementation modules, architecture notes, and runnable synthetic examples. The full production repository remains private.
+[Explore the public technical snapshot](https://github.com/Irisl99/Explorer-public) for selected implementation modules, architecture notes, and runnable synthetic examples. The full production repository remains private.
 
 The public examples use invented data. They do not establish learning efficacy, mastery, or score improvement.
